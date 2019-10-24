@@ -20,3 +20,4 @@
        Manchester M1 3BB
   ```
   
+All gigs will be recorded and released as 8 kHz mono u-law files for dumping to /dev/audio .
