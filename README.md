@@ -1,6 +1,6 @@
 # Gigs
 
-```
+```yaml
 - future_gigs:
   - date: Wed 4th December 2019
   - venue: |
